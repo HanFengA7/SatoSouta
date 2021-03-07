@@ -1,7 +1,25 @@
-# SatoSouta
+### 嘿！这里是笨蛋小太！
+（迪士尼在逃公主）
 
-[![](https://img.shields.io/badge/-@BakaShota-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/BakakaShota) [![](https://img.shields.io/badge/-https://blog.713.moe-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.713.moe) [![](https://img.shields.io/badge/-SatoSouta-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/SatoSouta) [![](https://img.shields.io/badge/-i@713.moe-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@713.moe)
+- [Homepage](https://713.moe/)
+- [Blog](https://blog.713.moe/)
+- [Bilibili](https://space.bilibili.com/20302686)
+- [Weibo](https://weibo.com/satosouta)
+- [AcFun](https://www.acfun.cn/u/2949960)
+- [NeteaseCloudMusic](https://music.163.com/#/user?id=330772645)
+- [Twitter](https://twitter.com/BakakaShota)
+- [Telegram](https://t.me/satosouta)
+- [Steam](https://steamcommunity.com/id/satosouta)
+- [osu!](https://osu.ppy.sh/u/satosouta)
+- [Zhihu](https://www.zhihu.com/people/satosouta)
+- [Email](mailto:i@713.moe)
 
-> 一个暂未毕业的高中生，鸽了
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=satosouta&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
-![SatoSouta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satosouta)
+### 简介
+
+> 2021应届高中毕业生，暂时鸽了
+
+![](https://visitor-badge.laobi.icu/badge?page_id=satosouta.visitor-badge)
+
+![SatoSouta's Language](https://github-readme-stats.vercel.app/api/top-langs?username=satosouta&show_icons=true&locale=en&layout=compact&hide=html&langs_count=6)
