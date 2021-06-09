@@ -1,5 +1,4 @@
 ### 嘿！这里是笨蛋小太！
-（迪士尼在逃公主）
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=satosouta&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
@@ -18,7 +17,7 @@
 
 ### 简介
 
-> 2021应届高中毕业生，暂时鸽了
+> 大学生，还是鸽了
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=satosouta.visitor-badge)
 
