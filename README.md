@@ -13,7 +13,7 @@
 - [Steam](https://steamcommunity.com/id/satosouta)
 - [osu!](https://osu.ppy.sh/u/satosouta)
 - [Zhihu](https://www.zhihu.com/people/satosouta)
-- [Email](mailto:i@713.moe)
+- [Email](mailto:im@baka.fun)
 
 ### 简介
 
